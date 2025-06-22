@@ -63,7 +63,6 @@ jupyter notebook object_detection_notebook.ipynb
 - [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)[#]
 - [OpenCV Documentation](https://docs.opencv.org/)[#]
 - [Streamlit Documentation](https://docs.streamlit.io/)[#]
-- [Your Project GitHub Link][#]
 
 ## License
 
@@ -151,7 +150,6 @@ Streamlit will provide a local URL (e.g., http://localhost:8501).
 - [Streamlit Documentation](https://docs.streamlit.io/)[#]
 - [OpenCV Documentation](https://docs.opencv.org/)[#]
 - [Best Practices for Streamlit Apps](https://blog.streamlit.io/best-practices-for-building-genai-apps-with-streamlit/)[#]
-- [Your Project GitHub Link][#]
 
 ## License
 
