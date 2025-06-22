@@ -22,8 +22,8 @@ This repository contains a Jupyter Notebook that demonstrates object detection a
 ## How to Use
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/harika-313/object-detection-yolov5.git
+cd object-detection-yolov5
 
 2. **Install dependencies:**
 pip install -r requirements.txt
@@ -108,8 +108,8 @@ The app leverages the YOLOv5 Nano model for fast, accurate detection and uses By
 ## Installation
 
 1. **Clone this repository:**
-git clone https://github.com/yourusername/your-streamlit-object-detection-app.git
-cd your-streamlit-object-detection-app
+git clone https://github.com/harika-313/object-detection-yolov5.git
+cd object-detection-yolov5
 
 2. **Install dependencies:**
 pip install -r requirements.txt
